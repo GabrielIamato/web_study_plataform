@@ -26,13 +26,14 @@ The management and learning software allows teachers, administrators, and even s
 
 # Features
 ## Student
-  * Materials: each material, send by the teachers, is separetad by one discipline and , more specific, a subject, so the student can search exatactaly what he want, like the discipline biology, subject citology.
-    <br><img src="https://github.com/user-attachments/assets/5f47f804-50be-44ac-ae98-75c5e0a12d18" alt="Descrição da Imagem" width="300"/><br>
+  * <b>Materials</b>: each material, send by the teachers, is separetad by one discipline and , more specific, a subject, so the student can search exatactaly what he want, like the discipline biology, subject citology.
+    <br><img src="https://github.com/user-attachments/assets/5f47f804-50be-44ac-ae98-75c5e0a12d18" width="300"/><br>
     Disciplines page
-    ![image](https://github.com/user-attachments/assets/744ff270-7aa9-4cd1-91b7-cc5c8e14ae9b) Subjects page
-  * Exercises: the student can filter the multiple-choice exercises by year, type of selective process, discipline and subject, so he can study the best exercises for his objective
-    ![image](https://github.com/user-attachments/assets/49219fa6-ce5d-4ba2-bf3f-948147a0bfd1)
-  *
+    <br><img src="https://github.com/user-attachments/assets/744ff270-7aa9-4cd1-91b7-cc5c8e14ae9b" width="300"/><br>
+    Subjects page
+  * <b>Exercises</b>: the student can filter the multiple-choice exercises by year, type of selective process, discipline and subject, so he can study the best exercises for his objective
+     <br><img src="https://github.com/user-attachments/assets/49219fa6-ce5d-4ba2-bf3f-948147a0bfd1" width="300"/><br>
+  *<b>Essays</b>: 
 
 # License
 This project is licensed under the GNU General Public License V3.0, published by the Free Software Foundation.
