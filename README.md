@@ -1,13 +1,23 @@
-INTRODUÇÃO
+# Introduction
 
-O projeto desenvolvido em equipe consiste em uma plataforma online de cursos pré-vestibulares para o cursinho Intelecto Bauru. Diante da inexistência de uma plataforma que contenha os conteúdos do curso pré-vestibular de forma organizada e devido à alta competitividade dos grandes vestibulares nacionais, identifica-se a necessidade de garantir um aprendizado amplo e completo, possibilitando um estudo complementar extraescolar. 
+The web project was design and desenvolved by a team at the Industrial Technical School 'Prof. Isaac Portal Roldán' - UNESP (Bauru, Brazil). The objective of this website is assistant prep course students to get a university position, and the development was directly accompanied by the company Intelecto Bauru. So , the plataform provide materials, exercises, classrooms, essays, and other funcionalities.
 
-Ademais, o site em desenvolvimento integra os princípios da informática com tecnologia. Há a utilização de linguagens de programação como php, javascript e HTML, além da utilização de banco de dados e de softwares como Canva, Photoshop, Visual Studio Code, Github e Inkscape. Construido em Laravel, com algumas paginas em Python.
-Desse modo, busca-se desenvolver um conteúdo online de acesso via web com os mais variados recursos digitais para garantir maior acessibilidade e facilidade no manuseio da plataforma.  
+In this way, the goal is to develop an online content platform accessible via the web, featuring a variety of digital resources to ensure greater accessibility and ease of use.
 
-Na plataforma desenvolvida os professores e administradores irão disponibilizar, de modo organizado e direto, materiais didáticos para o estudo complementar, um banco de questões testes e dissertativas, o envio de redações semanais, simulados periódicos e o acesso facilitado entre alunos e professores plantonistas.
+On the developed platform, teachers and administrators will provide, in an organized and straightforward manner, educational materials for supplementary study, a bank of multiple-choice and essay questions, weekly essay submissions, periodic simulations, and facilitated access between students and on-duty teachers.
 
-O software de gerenciamento e aprendizagem realizado permite que os professores, administradores e inclusive os alunos tenham acesso à evolução do estudante. Tal evolução será verificada através do progresso do discente pela visualização das aulas e execução das questões propostas em cada atividade, além de verificar o número de acertos nos simulados realizados durante o período preparatório.
+The management and learning software allows teachers, administrators, and even students to access the student’s progress. This progress will be assessed by tracking the student’s engagement with the lessons and the completion of the proposed questions in each activity, as well as checking the number of correct answers in the simulations conducted during the preparatory period.
 
-Dessa forma, aliar os artifícios tecnológicos com aprendizagem possibilita que os alunos possam acessar conteúdos relevantes, adentrar em um mundo de novos conhecimentos e manter um relacionamento mais próximo com os docentes. Para os pais, a tecnologia também tem muito a oferecer. É isso que facilita a comunicação entre famílias e professores, além de ajudar na organização do aprendizado diário dos adolescentes.   
-
+# Tecnologies / Languages 
+- Laravel (Framework PHP)
+- Javascript
+- HTLM
+- CSS
+- SQL
+- Flask (Framework Python)
+- Python (pandas, matplotlib)
+- Canva
+- Photoshop
+- Inkscape
+- Git
+- Github
