@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The web project was designed and developed by a team at the Industrial Technical School 'Prof. Isaac Portal Roldán' - UNESP (Bauru, Brazil), and the specific project documentation is available at [project_documentation](project_documentation.docx.pdf). The objective of this website is to assist prep course students in obtaining a university position, and the development was directly accompanied by the company Intelecto Bauru. Thus, the platform provides materials, exercises, classrooms, essays, and other functionalities.
+The web project was designed and developed by a team at the Industrial Technical School 'Prof. Isaac Portal Roldán' - UNESP (Bauru, Brazil) as a concluding project for the course, the specific project documentation is available at [project_documentation](project_documentation.docx.pdf). The objective of this website is to assist prep course students in obtaining a university position, and the development was directly accompanied by the company Intelecto Bauru. Thus, the platform provides materials, exercises, classrooms, essays, and other functionalities.
 
 In this way, the goal is to develop an online content platform accessible via the web, featuring a variety of digital resources to ensure greater accessibility and ease of use.
 
